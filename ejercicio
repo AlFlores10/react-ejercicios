@@ -1,0 +1,10 @@
+1- Crear un coponente de tipo Persona
+2. Con varios props para datos personales:  nombre, apellido
+
+3.  <h1> TITULO
+<ListaPersonas>
+
+<ul>
+<Componente> -> <li><label>Nombre: </label>Fulanito - Edad: 30</li>
+</ul>
+</ListaPersonas>
